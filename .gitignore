@@ -1,0 +1,18 @@
+**/bin/
+**/obj/
+artifacts/
+.vs/
+.idea/
+.vscode/
+.DS_Store
+
+**/node_modules/
+
+# Documenti esportati e strumenti locali
+*.pptx
+*.pdf
+.tokensave/
+
+# Stato locale di Spec Kit
+.specify/feature.json
+.specify/init-options.json
